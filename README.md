@@ -9,4 +9,5 @@ This repository holds Colab Notebooks containing **Basics of Time Series forecas
     <li>Seasonality</li>
     <li>Noise</li>
   </ul>
+  <li><b>Naive Forecasting</b></li>
 </ol>
